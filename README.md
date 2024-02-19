@@ -60,7 +60,7 @@ O `UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)` 
 
 **Objetivo do Dataset:**
 
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/Adriano1976/classification-ovarian-cancer/assets/17755195/fc84a6c8-3655-4166-b614-91c2e7f01f8e)
 
 O objetivo do dataset é fornecer um recurso para o desenvolvimento de novos métodos de classificação e detecção de outliers para câncer de ovário.
 
