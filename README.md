@@ -81,3 +81,11 @@ O dataset `UBC Ovarian Cancer Subtype Classification and Outlier Detection` é u
 **Saiba Mais** : https://www.mdpi.com/2379-139X/10/1/10
 
 <hr>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{classification-ovarian-cance}/count.svg" /></p> 
+<br>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
