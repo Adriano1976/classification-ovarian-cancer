@@ -4,8 +4,6 @@
 
 ### <Strong>Colaboração: Adriano Santos</strong>
 
-**Seja bem-vindo ao mundo da inteligência artificial!** Este guia te mostrará como construir e treinar um modelo de rede neural para classificar imagens de roupas usando o `TensorFlow`. 
-
 **Mesmo que você seja novo na área,** não se preocupe! Vamos explicar tudo passo a passo, desde os conceitos básicos até a implementação do modelo. No final, você terá uma compreensão sólida de como as redes neurais funcionam e como elas podem ser usadas para resolver problemas reais.
 
 ![image](https://github.com/Adriano1976/classification-ovarian-cancer/assets/17755195/3351e1cb-e40b-4ad1-848f-3209d6bdecc9)
